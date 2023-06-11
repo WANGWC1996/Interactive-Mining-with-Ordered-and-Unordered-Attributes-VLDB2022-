@@ -1,7 +1,7 @@
 Readme (Interactive Mining with Ordered and Unordered Attributes)
 =========================
 This package contains 2 directories 
-1. Directory "Exp", which contains the source codes of all the  algorithms
+1. Directory "KNN", which contains the source codes of all the  algorithms
 	a. Algorithm DI 
 	b. Algorithm EDI 
 	c. Algorithm BS 
